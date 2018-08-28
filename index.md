@@ -13,8 +13,6 @@ Syntax highlighted code block
 
 # Sarbesh Sapkota's first CS193 Lab
 
-- Bulleted
-- List
 
 * The Infinity Fountain
 * Boilermaker Special
